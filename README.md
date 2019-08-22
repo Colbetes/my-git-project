@@ -8,8 +8,5 @@
 
 > added to master again
 
-<<<<<<< HEAD
 > Made changes for git pull demo
-=======
-> Made changes for git pull demo 
->>>>>>> c93340a7446c16532dcdc9905a4ccc1317ed2ce1
+> Made changes for git pull demo
